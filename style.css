@@ -1,0 +1,33 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: sans-serif; background: #f9f9f9; text-align: center; }
+
+/* 네비게이션 & 공통 슬라이더 */
+nav { background: white; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+.menu { padding: 15px; }
+.menu img { 
+    margin: 0 20px;
+    max-width: 100px;
+}
+.menu a { margin: 0 15px; text-decoration: none; color: #333; font-weight: bold; }
+
+.global-slider {
+    max-width: 700px;
+    margin: 10px auto;
+    padding: 10px;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
+
+#main-img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 8px;
+    transition: opacity 0.5s ease-in-out;
+}
+
+#img-title { font-size: 0.9rem; color: #666; margin-top: 5px; }
+
+/* 메인 콘텐츠 구역 */
+main { padding: 40px 20px; }
