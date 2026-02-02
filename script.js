@@ -63,6 +63,10 @@ function route(page) {
                 style="width: 100%; max-width: 650px;
                 height: auto; margin-top: 10px;">
             <br><br><br>
+            <img src="src/audiWash.jpg" alt=""
+                style="width: 100%; max-width: 650px;
+                height: auto; margin-top: 10px;">
+            <br><br><br>
         `;
     } else if (page === 'contact') {
         content.innerHTML = `
