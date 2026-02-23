@@ -51,14 +51,38 @@ function route(page) {
         `;
     } else if (page === 'posts') {
         content.innerHTML = `
+            <p>🚘 워터리스 출장세차란?</p>
+            <p>💧 고압펌프를 사용하여 크고 작은오염물 제거가능</p>
+            <p>🧴 전용 세정제를 분사해 오염을 감싸고</p>
+            <p>🧽 마이크로화이버 타월로 안전하게 닦아내는 방식</p>
+            <br>
+            <p>✅️장점</p>
+            <p>○ 지하주차장 가능</p>
+            <p>○ 물사용 제한구역에서도 가능</p>
+            <p>○ 소음 거의 없음</p>
+            <p>○ 배수 문제 없음</p>
+            <p>○ 작업 시간 단축</p>
+            <br><br><br>
             <h3>1회성 방문세차</h3>
-            <p>필요할 때만 세차받는 방문세차 서비스입니다</p>
-            <img src="src/onetime.png" alt="노하우 이미지" 
+            <br>
+            <p>필요할 때만 세차받는</p> 
+            <p>방문세차 서비스입니다</p>
+            <img src="src/onetimePrice.png" alt="노하우 이미지" 
                 style="width: 100%; max-width: 650px;
                 height: auto; margin-top: 10px;">
             <br><br><br>
             <h3>월단위 방문세차</h3>
-            <p>정기적으로 세차받는 월단위 방문세차 서비스입니다</p>
+            <br>
+            <p>정기적으로 세차받는</p> 
+            <p>월단위 방문세차 서비스입니다</p>
+            <p>연락을 못받을 때가 많으니</p>
+            <p>문의 사항이나 예약은 문자 요청드립니다</p>
+            <br>
+            <a href="tel:010-2656-6085">
+            <img src="src/phone.png" alt="전화하기"
+                style="width: 100%; max-width: 150px;">
+            </a>
+            <br>
             <img src="src/monthly.png" alt="노하우 이미지" 
                 style="width: 100%; max-width: 650px;
                 height: auto; margin-top: 10px;">
