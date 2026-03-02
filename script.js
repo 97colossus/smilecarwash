@@ -142,10 +142,10 @@ function route(page) {
             <p>✅️ 장기간 실내 관리가 없었던 차량</p> 
             <br>
             <p>작업 후 효과</p>
-            <p>✅️ 실내 공기 질 개선</p>
-            <p>✅️ 눈에 보이는 오염 제거</p>
-            <p>✅️ 세균 및 냄새 감소</p>
-            <p>✅️ 쾌적한 운전 환경 복원</p>    
+            <p>✨ 실내 공기 질 개선</p>
+            <p>✨ 눈에 보이는 오염 제거</p>
+            <p>✨ 세균 및 냄새 감소</p>
+            <p>✨ 쾌적한 운전 환경 복원</p>    
             <br><br>
             <img src="src/cleaningPrice.png" alt="노하우 이미지" 
                 style="width: 100%; max-width: 650px;
